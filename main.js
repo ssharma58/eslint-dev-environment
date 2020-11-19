@@ -1,3 +1,6 @@
+
+const format = require("prettier-eslint");
+
 const budget = {
     myBudget: [
         {
